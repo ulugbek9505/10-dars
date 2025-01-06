@@ -1,0 +1,16 @@
+body {
+    background-color: blue; 
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+  }
+
+  .name-display {
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+.username{
+    color: black;
+}
